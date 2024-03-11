@@ -186,7 +186,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'DigitalHippo - Online Digital Assest Market Place',
        description:" I created a digital asset online marketplace called DigitalHippo. I used Payload2, a headless CMS and application framework, to build an admin page where sellers can add their products and receive verification emails. I also integrated Stripe, a payment processing platform, to accept payments and generate order slips. I added many other features to enhance the functionality and user experience of the marketplace.",
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/devkumar4/DigitalHippo',
         codeLink:"https://github.com/devkumar4/DigitalHippo"
     },
     {
